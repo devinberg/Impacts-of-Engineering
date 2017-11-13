@@ -8,25 +8,6 @@
 
 **E-mail:** bergdev@uwstout.edu
 
-**Course Location:**
-* Lecture: 
-    * Sections 001 and 005: Millenium Hall room 201
-    * Sections 002, 003, and 004: Heritage Hall room 131
-* Lab: JHTW room 172
-
-**Course Time:**
-* Lecture: 
-    * Sections 001 and 005: T, Th (10:10-11:05)
-    * Sections 002, 003, and 004: M, W (10:10-11:05)
-* Lab:
-    * Section 001: W (1:25-3:25)
-    * Section 002: M (8:00-10:00)
-    * Section 003: T (8:00-10:00)
-    * Section 004: Th (8:00-10:00)
-    * Section 005: W (8:00-10:00)
-
-**Office Hours:** by appointment
-
 **Course Description:** A comprehensive study of the engineering design process from initiation to completion. Definition and history of engineering disciplines with comparisons among them. Investigation and exploration of past and present impacts of engineering on people, society, and the environment. Examination of contemporary and emerging issues related to engineering. Introduction to engineering in practice through engineering design projects.
 
 **Prerequisites:** none
